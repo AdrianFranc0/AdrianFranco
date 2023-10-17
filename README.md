@@ -5,8 +5,10 @@
 - [Active Directory Home Lab] link here
 
 <h2>Certifications</h2>
-upload pic here with link
 
+[https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_ZABNWLpP8QpkGti3p_1697508517611_completion_certificate.pdf] 
+
+[https://www.credly.com/badges/00ebfe33-d358-4f56-b9ff-c7abf842dab9/linked_in_profile]
 
 <h2> 🤳 Connect with me:</h2>
 
