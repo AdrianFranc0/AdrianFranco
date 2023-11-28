@@ -4,6 +4,7 @@
 
 - [Active Directory Home Lab] [link here](https://github.com/F4LSO/Active-Directory-Home-Lab/blob/main/README.md)
 - [Azure SIEM Sentinel Project] [link here](https://github.com/AdrianFranc0/Azure-SIEM-Project/blob/main/README.md)
+- [OpenVAS Vulnerability Management project] [link here](https://github.com/AdrianFranc0/OpenVAS-Vulnerability-Management-Lab/blob/main/README.md)
 <h2>Certifications</h2>
 
 [https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_ZABNWLpP8QpkGti3p_1697508517611_completion_certificate.pdf] 
