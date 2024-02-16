@@ -1,4 +1,4 @@
-# Hello, Adrian Franco
+# Hello, I'm Adrian Franco
 <a href="https://www.linkedin.com/in/adrian-franco-460793200/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
