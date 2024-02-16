@@ -1,20 +1,45 @@
-<h1>Hi, I'm Adrian Franco! <br/><a href="https://github.com/AdrianFranc0" >Cybersecurity Professional</a> </a></h1>
+# Hello, Adrian Franco
+<a href="https://www.linkedin.com/in/adrian-franco-460793200/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>👨‍💻 Cyber security Projects:</h2>
 
-- [Active Directory Home Lab] [link here](https://github.com/F4LSO/Active-Directory-Home-Lab/blob/main/README.md)
-- [Azure SIEM Sentinel Project] [link here](https://github.com/AdrianFranc0/Azure-SIEM-Project/blob/main/README.md)
-- [OpenVAS Vulnerability Management project] [link here](https://github.com/AdrianFranc0/OpenVAS-Vulnerability-Management-Lab/blob/main/README.md)
-<h2>Certifications</h2>
 
+I am soon to graduate from high school with a profound interest in cybersecurity and a dedication to solving complex problems and bringing value to a company's security posture.
+
+## Objective
+
+
+My love for technolagy has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+| Skill                                                                         | Associated Project         |
+|-------------------------------------------------------------------------------|----------------------------|
+| Building an network enviornment in a VM and using Powershell/Active directory | <a href="https://t.ly/0CUSz">Active Directory Home Lab</a>|
+| Using Azure SIEM to monitor/manage data from honeypot                                     |<a href="https://t.ly/rJIfU">Azure SIEM Lab</a>|
+| Configuring/using Vulnerbility Management to scan for vulnerablities [OpenVAS]            |<a href="https://t.ly/xg5cs">OpenVAS VM Lab</a>|
+|Network/PCAP Analysis using WireShark                                                         |<a href="https://t.ly/xg5cs">Wireshark Lab VM</a>|
+
+
+</div>
+
+## Certifications
+<div>
 [https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_ZABNWLpP8QpkGti3p_1697508517611_completion_certificate.pdf] 
 
 [https://www.credly.com/badges/00ebfe33-d358-4f56-b9ff-c7abf842dab9/linked_in_profile]
+</div>
 
-<h2> 🤳 Connect with me:</h2>
+## Projects
+- Active Directory Home Lab
+- Azure SIEM Lab
+- OpenVAS VM Lab
+- Wireshark network-PCAP analysis Lab VM
 
-[<img align="left" alt="Adrian Franco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/adrian-franco-460793200/
+
+
+
+
+
 
 
 
