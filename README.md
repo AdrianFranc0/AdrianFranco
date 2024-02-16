@@ -14,10 +14,10 @@ My love for technolagy has led me to develop a passion for cybersecurity, and I 
 
 | Skill                                                                         | Associated Project         |
 |-------------------------------------------------------------------------------|----------------------------|
-| Building an network enviornment in a VM and using Powershell/Active directory | <a href="https://t.ly/0CUSz">Active Directory Home Lab</a>|
-| Using Azure SIEM to monitor/manage data from honeypot                                     |<a href="https://t.ly/rJIfU">Azure SIEM Lab</a>|
-| Configuring/using Vulnerbility Management to scan for vulnerablities [OpenVAS]            |<a href="https://t.ly/xg5cs">OpenVAS VM Lab</a>|
-|Network/PCAP Analysis using WireShark                                                         |<a href="https://t.ly/xg5cs">Wireshark Lab VM</a>|
+|Building an network enviornment in a VM and using Powershell/Active directory | <a href="https://t.ly/0CUSz">Active Directory Home Lab</a>|
+|Using Azure SIEM to monitor/manage data from honeypot                                     |<a href="https://t.ly/rJIfU">Azure SIEM Lab</a>|
+|Configuring/using Vulnerbility Management to scan for vulnerablities [OpenVAS]|<a href="https://t.ly/xg5cs">OpenVAS VM Lab</a>|
+|Network/PCAP Analysis using WireShark                                         |<a href="https://t.ly/TVqD6">Wireshark Lab VM</a>|
 
 
 </div>
@@ -45,6 +45,6 @@ My love for technolagy has led me to develop a passion for cybersecurity, and I 
 
 
 
-- 🔭 I’m currently working on projects and getting expierence 
-- 🌱 I’m currently learning different SIEM tools and getting familiar with networking
+- 🔭 I’m currently working on projects, practicing my skills to gain more expirience
+- 🌱 I’m currently taking Microsoft Cybersecurity certification to learn more of Azure/Microsoft tools and getting more familiar with networking
 -->
