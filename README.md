@@ -27,6 +27,8 @@ My love for technolagy has led me to develop a passion for cybersecurity, and I 
 
 
   [https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_ZABNWLpP8QpkGti3p_1697508517611_completion_certificate.pdf] 
+  
+[https://www.credly.com/badges/26ef7e1b-a586-4a09-8b53-dca272be9492/public_url]
 
 [https://www.credly.com/badges/00ebfe33-d358-4f56-b9ff-c7abf842dab9/linked_in_profile]
 </div>
